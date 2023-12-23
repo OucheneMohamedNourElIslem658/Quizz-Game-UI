@@ -1,0 +1,26 @@
+<svg width="99" height="216" viewBox="0 0 99 216" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_f_4_441)">
+<circle cx="0.761154" cy="101.698" r="7" transform="rotate(29.0308 0.761154 101.698)" fill="#4285F4"/>
+<circle cx="15.6513" cy="119.291" r="7" transform="rotate(29.0308 15.6513 119.291)" fill="#4285F4"/>
+<circle cx="-9.13582" cy="49.6834" r="7" transform="rotate(29.0308 -9.13582 49.6834)" fill="#4285F4"/>
+<circle cx="30.5414" cy="136.885" r="7" transform="rotate(29.0308 30.5414 136.885)" fill="#4285F4"/>
+<circle cx="-4.23189" cy="136.119" r="7" transform="rotate(29.0308 -4.23189 136.119)" fill="#4285F4"/>
+<circle cx="10.6582" cy="153.713" r="7" transform="rotate(29.0308 10.6582 153.713)" fill="#4285F4"/>
+<circle cx="-9.22493" cy="170.541" r="7" transform="rotate(29.0308 -9.22493 170.541)" fill="#4285F4"/>
+<circle cx="5.7542" cy="67.2766" r="7" transform="rotate(29.0308 5.7542 67.2766)" fill="#4285F4"/>
+<circle cx="20.6443" cy="84.8698" r="7" transform="rotate(29.0308 20.6443 84.8698)" fill="#4285F4"/>
+<circle cx="35.5345" cy="102.463" r="7" transform="rotate(29.0308 35.5345 102.463)" fill="#4285F4"/>
+<circle cx="50.4246" cy="120.056" r="7" transform="rotate(29.0308 50.4246 120.056)" fill="#4285F4"/>
+<circle cx="65.3147" cy="137.65" r="7" transform="rotate(29.0308 65.3147 137.65)" fill="#4285F4"/>
+<circle cx="45.4316" cy="154.478" r="7" transform="rotate(29.0308 45.4316 154.478)" fill="#4285F4"/>
+<circle cx="25.5484" cy="171.306" r="7" transform="rotate(29.0308 25.5484 171.306)" fill="#4285F4"/>
+<circle cx="5.66508" cy="188.134" r="7" transform="rotate(29.0308 5.66508 188.134)" fill="#4285F4"/>
+</g>
+<defs>
+<filter id="filter0_f_4_441" x="-140.734" y="15.0888" width="223.05" height="223.359" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="5" result="effect1_foregroundBlur_4_441"/>
+</filter>
+</defs>
+</svg>

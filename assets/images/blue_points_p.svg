@@ -1,0 +1,23 @@
+<svg width="113" height="127" viewBox="0 0 113 127" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g filter="url(#filter0_f_33_1310)">
+<circle cx="29.6522" cy="-7.70873" r="7" transform="rotate(29.0308 29.6522 -7.70873)" fill="#4285F4"/>
+<circle cx="-5.12115" cy="-8.47374" r="7" transform="rotate(29.0308 -5.12115 -8.47374)" fill="#4285F4"/>
+<circle cx="44.5423" cy="9.88454" r="7" transform="rotate(29.0308 44.5423 9.88454)" fill="#4285F4"/>
+<circle cx="9.76897" cy="9.11952" r="7" transform="rotate(29.0308 9.76897 9.11952)" fill="#4285F4"/>
+<circle cx="24.6591" cy="26.7128" r="7" transform="rotate(29.0308 24.6591 26.7128)" fill="#4285F4"/>
+<circle cx="4.77594" cy="43.541" r="7" transform="rotate(29.0308 4.77594 43.541)" fill="#4285F4"/>
+<circle cx="64.4254" cy="-6.94371" r="7" transform="rotate(29.0308 64.4254 -6.94371)" fill="#4285F4"/>
+<circle cx="79.3156" cy="10.6496" r="7" transform="rotate(29.0308 79.3156 10.6496)" fill="#4285F4"/>
+<circle cx="59.4324" cy="27.4778" r="7" transform="rotate(29.0308 59.4324 27.4778)" fill="#4285F4"/>
+<circle cx="39.5492" cy="44.306" r="7" transform="rotate(29.0308 39.5492 44.306)" fill="#4285F4"/>
+<circle cx="19.666" cy="61.1342" r="7" transform="rotate(29.0308 19.666 61.1342)" fill="#4285F4"/>
+<circle cx="-0.217209" cy="77.9624" r="7" transform="rotate(29.0308 -0.217209 77.9624)" fill="#4285F4"/>
+</g>
+<defs>
+<filter id="filter0_f_33_1310" x="-126.733" y="-111.911" width="223.05" height="223.359" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feBlend mode="normal" in="SourceGraphic" in2="BackgroundImageFix" result="shape"/>
+<feGaussianBlur stdDeviation="5" result="effect1_foregroundBlur_33_1310"/>
+</filter>
+</defs>
+</svg>

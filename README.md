@@ -15,6 +15,8 @@ Folder Structure :
 Dependencies : 
   - get : for state managment and routing managment.
   - flutter_animate : for animations (loading animation).
+  - flutter_svg : to import and manupilate svg pictures.
+  - get_storage : for {key ,value} storage functionality.
 
 Tips :
   - If you want to use directly the code you can replace the provided code folders in your project (the import paths are 
